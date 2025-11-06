@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TesfayeMe/Netflix-Clone-2025/static/css/main.559ec74a.css",
+    "main.js": "/TesfayeMe/Netflix-Clone-2025/static/js/main.365869b0.js",
+    "index.html": "/TesfayeMe/Netflix-Clone-2025/index.html",
+    "main.559ec74a.css.map": "/TesfayeMe/Netflix-Clone-2025/static/css/main.559ec74a.css.map",
+    "main.365869b0.js.map": "/TesfayeMe/Netflix-Clone-2025/static/js/main.365869b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559ec74a.css",
+    "static/js/main.365869b0.js"
+  ]
+}
